@@ -21,7 +21,8 @@ Leaving generated disclaimer for the time being in case I missed something.
 TO DO:
 - Link two sources for schools which only have one
  - Possibly add column about for visa revocations that are known to be related to political views (?)
-- Check to see if any schools not listed here have reported visa revocations. 
+- Check to see if any schools not listed here have reported visa revocations.
+- Tracking visa statuses, etc. for non-students is also important, but out of scope for this project because I am not currently aware of a good way to go about doing that. Open to suggestions though. 
 
 
 Please email me if you're aware of any new info, or think I missed something or would like to contribute. jon.gerhardson at proton.me 
