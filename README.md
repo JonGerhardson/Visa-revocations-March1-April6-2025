@@ -25,7 +25,7 @@ TO DO:
 - Tracking visa statuses, etc. for non-students is also important, but out of scope for this project because I am not currently aware of a good way to go about doing that. Open to suggestions though.
 
   **Corrections**
-April 7 @7:51 ET - Changed UC San Diego from "5+ (1 detained)" to "6 (1 Deported)" added an additional source
+April 7 @19:51 EDT - Changed UC San Diego from "5+ (1 detained)" to "6 (1 Deported)" added an additional source
 
 Please email me if you're aware of any new info, or think I missed something or would like to contribute. jon.gerhardson at proton.me 
 
