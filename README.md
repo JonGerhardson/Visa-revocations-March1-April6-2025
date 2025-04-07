@@ -1,5 +1,4 @@
 # Visa-revocations-March1-April6-2025
-Okay, here is the information from the previous consolidated report formatted into a data table (using Markdown).
 
 **Student Visa Revocation Data (Approx. March 1 - April 7, 2025)**
 
