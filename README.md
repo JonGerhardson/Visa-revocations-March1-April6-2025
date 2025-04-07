@@ -1,5 +1,8 @@
 # Visa-revocations-March1-April6-2025
 
+DISCLAIMER: This is just intended as a temporary reference and github is the easiest way to publish a markdown table online. That said, please feel welcome to submit pull requests with updates or corrections. This information is moderately accurate as of April 7. It was AI generated, **do not** cite it as a source. 
+
+Lisence: You may reproduce this table in part or entirely and remix it etc. as you might if it was licensed under CC4.0 EXCEPT you MUST include the disclaimer above, and must license it under this same license.
 **Student Visa Revocation Data (Approx. March 1 - April 7, 2025)**
 
 |                                                |                                    |                                |                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
