@@ -5,7 +5,6 @@ DISCLAIMER: This is just intended as a temporary reference and github is the eas
 The schools below are from the list of 60 schools the Department of Education said were under investigation for antisemitism in a March 10 press release, and another 50 schools pulled from a Reddit thread about the recent visa cancellations. State school systems include each indivisual school. This information is based only on existing news articles published between March 1 and April 6, 2025. 
 
 Lisence: You may reproduce this table in part or entirely and remix it etc. as you might if it was licensed under CC4.0 EXCEPT you MUST include the disclaimer above, and must license it under this same license.
-Okay, here is the information from the previous consolidated report formatted into a data table (using Markdown).
 
 **Updates April 7** 
 
