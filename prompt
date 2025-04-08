@@ -1,0 +1,76 @@
+Prompt used to create the first draft of this, which has since been manually checked and updated. 
+
+"""Generate a consolidated report on student visa revocations for the following list of universities:
+
+[List of Universities:     American University 
+    Arizona State University 
+    Boston University 
+    Brown University 
+    California State University, Sacramento 
+    Chapman University 
+    Columbia University 
+    Cornell University 
+    Drexel University 
+    Eastern Washington University 
+    Emerson College 
+    George Mason University 
+    Harvard University 
+    Illinois Wesleyan University 
+    Indiana University, Bloomington 
+    Johns Hopkins University 
+    Lafayette College 
+    Lehigh University 
+    Middlebury College 
+    Muhlenberg College 
+    Northwestern University 
+    Ohio State University 
+    Pacific Lutheran University     
+    Pomona College 
+    Portland State University 
+    Princeton University 
+    Rutgers University 
+    Rutgers University-Newark
+    Santa Monica College 
+    Sarah Lawrence College 
+    Stanford University 
+    State University of New York Binghamton 
+    State University of New York Rockland 
+    State University of New York, Purchase 
+    Swarthmore College 
+    Temple University 
+    The New School 
+    Tufts University 
+    Tulane University 
+    Union College 
+    University of California Davis 
+    University of California San Diego 
+    University of California Santa Barbara 
+    University of California, Berkeley
+    University of Cincinnati 
+    University of Hawaii at Manoa 
+    University of Massachusetts Amherst 
+    University of Michigan 
+    University of Minnesota, Twin Cities 
+    University of North Carolina 
+    University of South Florida 
+    University of Southern California 
+    University of Tampa 
+    University of Tennessee 
+    University of Virginia 
+    University of Washington-Seattle 
+    University of Wisconsin, Madison 
+    Wellesley College 
+    Whitman College 
+    Yale University ]
+
+Perform a web search for each university listed above, **searching separately for each one**. Limit the search results **strictly** to the date range: **[Insert Start Date, e.g., 2025-03-01]** to **[Insert End Date, e.g., 2025-04-07]**.
+
+For each university, find relevant results specifically about **student visa revocations**.
+
+Compile all findings into a single document, listing the universities alphabetically. For each university:
+* Write a brief summary of the findings regarding student visa revocations within the specified date range.
+* If the sources mention the number of revoked visas, please include that number.
+* Include direct links to the best source(s) found for that university.
+* If no specific information about student visa revocations is found for a particular university within the date range, clearly state 'No specific information found'.
+
+Please ensure the final output is a single, well-formatted document covering all listed universities."""
