@@ -17,9 +17,7 @@ Began adding info about detentions. Format will be "x (y detained)" for right no
 
 I am not adding new schools at this time that have declined comment, but am adding schools that have affirmitively stated there have been no cancelled visas, along with the date of that claim. 
 
-Manually verified information. I did not find any innacuracies. If I find wrong info I will make a  note of it,here. For newly added information, as opposed to wrong information that's been corrected, see git commit logs. 
-
-Leaving generated disclaimer for the time being in case I missed something. 
+I'm doing my best to verify all the information, but it's changing every day. You can expect nothing is fabricated, I can't promise it's up to the minute accurate. See git logs for which schools have seen updates when. 
 
 ****Tracking visa statuses, etc. for non-students is important, but out of scope for this project because I am not currently aware of a good way to go about doing that. ****
 
