@@ -1,14 +1,14 @@
  For each school listed below, do a web search limited ONLY to this date range: 04/06/2025 - 04/09/2025. Find relevant results about student visa revocations. Include recent grads, professors, and other academics with visas or green cards. DO THIS SEPERATELY FOR EACH SCHOOL. Write a summary and include links to the best sources. Prioritize the school's own website, and  local news sources. List the number of revoked visas.
 
-If you can't find how many visas were revoked for a specific campus from the list, but can for the school system, write a seperate summary for the school system. 
+If you can't find how many visas were revoked for a specific campus from the list, but can for the school system, write a seperate summary for the school system. You should include reports of revocations and detentions that fall outside the date range if it's appropriate, but prioritize using the most up to date information available. 
 
 Format your output like this: 
-University of California San Diego (UC San Diego): At least 5 students had F-1 visas terminated. Another international student was detained at the Mexico-U.S. border and deported.
+Name of School: brief summary (e.g. At least 5 students had F-1 visas terminated. Another international student was detained at the Mexico-U.S. border and deported.)
 
     Number: 5 ( 1 detained/deported)
     Sources:
-        [UCLA, UC San Diego students have student visas revoked - Spectrum News](url)
-        [source 2](url) 
+       Source 1 Name - https:website.com/example #full url must be in plain text 
+     Source 2 Name - https:website.edu/news 
 
 List of schools: [ 
 
