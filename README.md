@@ -1,6 +1,6 @@
 # Outdated
 
-I might get this up to date in the future, but it's the situation is evolving rapidly, and I don't have enough time to devote to constantly updating it. When I started doing this last week, I was not aware of anyone else doing so. If you've somehow landed on this random github page looking for up to date info on nationwide student visa revocations you should go here instead: [https://www.insidehighered.com/news/global/international-students-us/2025/04/07/where-students-have-had-their-visas-revoked](https://www.insidehighered.com/news/global/international-students-us/2025/04/07/where-students-have-had-their-visas-revoked) 
+I might get this up to date in the future, but the situation is evolving rapidly, and I don't have enough time to devote to constantly updating it. When I started doing this last week, I was not aware of anyone else doing so. If you've somehow landed on this random github page looking for up to date info on nationwide student visa revocations you should go here instead: [https://www.insidehighered.com/news/global/international-students-us/2025/04/07/where-students-have-had-their-visas-revoked](https://www.insidehighered.com/news/global/international-students-us/2025/04/07/where-students-have-had-their-visas-revoked) 
 
 ~ 645 reported as of April 10
 ### Visa revocations since March 2025
